@@ -5,7 +5,7 @@
 
 **Concept:**
 
-This game is an interesting multiplayer 2D tower defence game developed using Unity, drawing inspiration from the likes of "Plants vs Zombies" and "Overcooked!" What sets this game apart from others in the genre are its unique takes on resource management, time management, cooperation and defence. Moreover, the game has a tense and immersive story that drives its events, and is filled to the brim with captivating, hand-drawn entities that have unique designs and move in different ways.
+Created for University of Pennsylvania Game Research and Development Environment (UPGRADE)'s game collection, this game is an interesting multiplayer 2D tower defence game developed using Unity, drawing inspiration from the likes of "Plants vs Zombies" and "Overcooked!" What sets this game apart from others in the genre are its unique takes on resource management, time management, cooperation and defence. Moreover, the game has a tense and immersive story that drives its events, and is filled to the brim with captivating, hand-drawn entities that have unique designs and move in different ways.
 
 <br>
 
