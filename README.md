@@ -1,8 +1,6 @@
 <h1 align="center">Botanic Defenders</h1>
 <h3 align="center">A plant themed multiplayer tower defence game</h3>
 
-(add image here)
-
 **Concept:**
 
 Created for University of Pennsylvania Game Research and Development Environment (UPGRADE)'s game collection, this game is an interesting multiplayer 2D tower defence game developed using Unity, drawing inspiration from the likes of "Plants vs Zombies" and "Overcooked!" What sets this game apart from others in the genre are its unique takes on resource management, time management, cooperation and defence. Moreover, the game has a tense and immersive story that drives its events, and is filled to the brim with captivating, hand-drawn entities that have unique designs and move in different ways.
@@ -46,3 +44,6 @@ I created this game with some help from my group members, Steven, Erica, Eric, K
 **Assets:**
 
 * All assets were hand drawn by our team's artists
+
+
+**This game belongs to UPGRADE and is to be published on Steam soon**
